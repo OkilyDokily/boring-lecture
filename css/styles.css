@@ -1,15 +1,10 @@
-h2.intro {
+.intro {
 
   font-family: fantasy;
-}
-
-p.intro {
   width: 50%;
   color: teal;
 
-
 }
 
-img.intro {
-  border-radius: 33%;
-}
+
+
