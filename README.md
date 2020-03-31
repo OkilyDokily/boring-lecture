@@ -6,7 +6,7 @@
 
 ## Description
 
-_A boring lecture page which demonstrates html and css basics._
+_A boring lecture page which demonstrates html, jQuery and css basics._
 
 ## Setup/Installation Requirements
 
@@ -22,7 +22,7 @@ _Open a Github issue if you see a problem or have questions_
 
 ## Technologies Used
 
-_This is an html and css thing._
+_This is an html, jQuery and css thing._
 
 ### License
 
